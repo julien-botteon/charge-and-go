@@ -1,0 +1,18 @@
+.btn-blue {
+  background-color: #4AD295;
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Barlow', sans-serif;
+}
+
+.btn-red {
+  background-color: #4AD295;
+ padding: 15px 20px;
+ border-radius: 4px;
+ color: white;
+ font-weight: bold;
+ font-family: 'Barlow', sans-serif;
+ margin: 350px;
+}
